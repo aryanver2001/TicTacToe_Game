@@ -76,4 +76,8 @@ body{
         height: 7vmin;
         width: 24vmin;
     }
+
+    .msg-container{
+        height: 100vh;
+    }
 }
